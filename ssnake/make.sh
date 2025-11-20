@@ -1,0 +1,1 @@
+g++ $(find . -name "*.c") $(find . -name "*.cpp") -o ssnake -lncurses -O3 # linux compile
